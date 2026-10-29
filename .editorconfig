@@ -1,0 +1,5 @@
+# Enforce LF line endings for shell scripts (prevents CRLF breakage on Windows)
+*.sh text eol=lf
+* text=auto eol=lf
+"<rfl:parameter name="path">
+/root/php-switch/.gitattributes

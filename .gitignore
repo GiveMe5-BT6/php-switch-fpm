@@ -1,0 +1,6 @@
+# Local working files
+PUSH_CHECKLIST.md
+*.bak
+*.log
+.DS_Store
+"
